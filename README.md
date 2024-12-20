@@ -1,7 +1,6 @@
 # Buildingstatisticscalculator
 
 
-Building Statistics Calculator
 
 
 
